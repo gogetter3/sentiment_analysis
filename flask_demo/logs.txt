@@ -1,0 +1,15 @@
+<response>
+отличный телефон
+certain positive
+</response>
+
+<response>
+отвратительная батарея, сломался динамик, выкинул через месяц
+ negative
+</response>
+
+<response>
+бла бла бла
+probably negative
+</response>
+
